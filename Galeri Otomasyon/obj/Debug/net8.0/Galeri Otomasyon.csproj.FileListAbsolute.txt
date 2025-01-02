@@ -1,0 +1,56 @@
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.exe
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.deps.json
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.runtimeconfig.json
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.dll
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.pdb
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.dll
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\refint\Galeri Otomasyon.dll
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.pdb
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.genruntimeconfig.cache
+C:\Users\Monster\Desktop\C#\ÖDEV_TESLİMİ_5\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\ref\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.exe
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.deps.json
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.runtimeconfig.json
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.pdb
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.AssemblyInfoInputs.cache
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.AssemblyInfo.cs
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\refint\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.pdb
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.genruntimeconfig.cache
+C:\Users\Yusuf\Downloads\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\ref\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.exe
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.deps.json
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.runtimeconfig.json
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.pdb
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.AssemblyInfoInputs.cache
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.AssemblyInfo.cs
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\refint\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.pdb
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.genruntimeconfig.cache
+C:\Users\Yusuf\Downloads\Yeni klasör\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\ref\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.exe
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.deps.json
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.runtimeconfig.json
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\bin\Debug\net8.0\Galeri Otomasyon.pdb
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.AssemblyInfoInputs.cache
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.AssemblyInfo.cs
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\refint\Galeri Otomasyon.dll
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.pdb
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\Galeri Otomasyon.genruntimeconfig.cache
+C:\Users\Yusuf\Downloads\Doğru olan ödev\Galeri Otomasyon (2)\Galeri Otomasyon\Galeri Otomasyon\obj\Debug\net8.0\ref\Galeri Otomasyon.dll

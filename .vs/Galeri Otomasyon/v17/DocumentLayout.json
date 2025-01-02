@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D673B009-5DA0-47B3-831B-C7C6776773FE}|Galeri Otomasyon\\Galeri Otomasyon.csproj|c:\\users\\monster\\desktop\\github\\basic-programming-6\\galeri otomasyon\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673B009-5DA0-47B3-831B-C7C6776773FE}|Galeri Otomasyon\\Galeri Otomasyon.csproj|solutionrelative:galeri otomasyon\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673B009-5DA0-47B3-831B-C7C6776773FE}|Galeri Otomasyon\\Galeri Otomasyon.csproj|c:\\users\\monster\\desktop\\github\\basic-programming-6\\galeri otomasyon\\galeri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673B009-5DA0-47B3-831B-C7C6776773FE}|Galeri Otomasyon\\Galeri Otomasyon.csproj|solutionrelative:galeri otomasyon\\galeri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D673B009-5DA0-47B3-831B-C7C6776773FE}|Galeri Otomasyon\\Galeri Otomasyon.csproj|c:\\users\\monster\\desktop\\github\\basic-programming-6\\galeri otomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D673B009-5DA0-47B3-831B-C7C6776773FE}|Galeri Otomasyon\\Galeri Otomasyon.csproj|solutionrelative:galeri otomasyon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 464,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-6\\Galeri Otomasyon\\Araba.cs",
+              "RelativeDocumentMoniker": "Galeri Otomasyon\\Araba.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-6\\Galeri Otomasyon\\Araba.cs",
+              "RelativeToolTip": "Galeri Otomasyon\\Araba.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:11:00.298Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Galeri.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-6\\Galeri Otomasyon\\Galeri.cs",
+              "RelativeDocumentMoniker": "Galeri Otomasyon\\Galeri.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-6\\Galeri Otomasyon\\Galeri.cs",
+              "RelativeToolTip": "Galeri Otomasyon\\Galeri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Galeri Otomasyon",
+              "WhenOpened": "2024-05-01T16:10:14.113Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-6\\Galeri Otomasyon\\Program.cs",
+              "RelativeDocumentMoniker": "Galeri Otomasyon\\Program.cs",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\basic-programming-6\\Galeri Otomasyon\\Program.cs",
+              "RelativeToolTip": "Galeri Otomasyon\\Program.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAqwMcCAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenGroupName": "Galeri Otomasyon",
+              "WhenOpened": "2024-04-30T15:49:44.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
